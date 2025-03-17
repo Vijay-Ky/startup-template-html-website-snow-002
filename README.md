@@ -2,7 +2,7 @@
 # Startup Template - HTML Website: Snow ❄️
 
 ## 🌟 Live Preview
-[View the Live Preview](https://github.com/Vijay-Ky/startup-template-html-website-snow-002.git)
+[View the Live Preview](https://vijay-ky.github.io/startup-template-html-website-snow-002/)
 
 ## 📋 About the Template
 This **Startup Template** is a clean and modern HTML website, specially designed to cater to startups looking to establish a professional online presence. It is:
